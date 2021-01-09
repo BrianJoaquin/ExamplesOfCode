@@ -1,6 +1,6 @@
 RPS:
 
-A simple "Rock, Paper, Scissors" game.
+A simple "Rock, Paper, Scissors" game with a GUI.
 ------------------------------------------------------------------------
 Persistence:
 
